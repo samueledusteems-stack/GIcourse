@@ -1,0 +1,125 @@
+{
+  "title": "GI Course - Generative AI",
+  "source": "BSD Online / AI Course: Generative AI",
+  "lessons": [
+    {
+      "title": "Lesson 1: Prompt Engineering",
+      "topics": [
+        ["Exploring Generative AI", "Info"],
+        ["How to use Generative AI Effectively", "Info"],
+        ["What Are Prompts", "Info"],
+        ["mission 1", "PDF"],
+        ["Generative AI Lesson 1 Submission", "Assignment"],
+        ["Six-Part Prompt Formula", "Info"],
+        ["mission 2", "PDF"],
+        ["Generative AI Lesson 1 Submission", "Assignment"],
+        ["Zero-shot & Few-shot Prompting", "Info"],
+        ["mission 3", "PDF"],
+        ["Generative AI Lesson 1 Submission", "Assignment"],
+        ["Break Task Down", "Info"],
+        ["mission 4", "PDF"],
+        ["Generative AI Lesson 1 Submission", "Assignment"],
+        ["Debug & Verify", "Info"],
+        ["mission 5", "PDF"],
+        ["Generative AI Lesson 1 Submission", "Assignment"]
+      ]
+    },
+    {
+      "title": "Lesson 2: Everyday AI - Learn, Create & Plan",
+      "topics": [
+        ["How Can AI Help You in Daily Life", "Info"],
+        ["L02_Start", "PDF"],
+        ["L02_Mission 1", "PDF"],
+        ["Generative AI Lesson 2 Submission", "Assignment"],
+        ["L02_Mission 2", "PDF"],
+        ["Generative AI Lesson 2 Submission", "Assignment"],
+        ["L02_Mission 3", "PDF"],
+        ["Generative AI Lesson 2 Submission", "Assignment"],
+        ["L02_Mission 4", "PDF"],
+        ["Generative AI Lesson 2 Submission", "Assignment"],
+        ["L02_Mission 5", "PDF"],
+        ["Generative AI Lesson 2 Submission", "Assignment"],
+        ["L02_End", "PDF"]
+      ]
+    },
+    {
+      "title": "Lesson 3 - AI Image Generation",
+      "topics": [
+        ["AI Image Generation Explained", "Info"],
+        ["Create Image with Chatgpt", "Info"],
+        ["AI Image How to write perfect prompt", "PDF"],
+        ["AI Image Visual Vocabulary", "PDF"],
+        ["Prompt_Vocabulary_Handbook", "PDF"],
+        ["Prompt Gallery", "Info"],
+        ["Generate Image in Adobe Firefly", "Info"],
+        ["AI Image Generation Tools", "Info"],
+        ["Mission 1", "PDF"],
+        ["Generative AI Lesson 3 Submission", "Assignment"],
+        ["Mission 2", "PDF"],
+        ["Generative AI Lesson 3 Submission", "Assignment"],
+        ["Mission 3", "PDF"],
+        ["Generative AI Lesson 3 Submission", "Assignment"],
+        ["Mission 4", "PDF"],
+        ["Generative AI Lesson 3 Submission", "Assignment"],
+        ["Mission 5", "PDF"],
+        ["Generative AI Lesson 3 Submission", "Assignment"]
+      ]
+    },
+    {
+      "title": "Lesson 4 - AI Music & Sound Creation",
+      "topics": [
+        ["Suno AI Tutorial Part 1", "Info"],
+        ["Suno AI Tutorial Part 2", "Info"],
+        ["Suno AI Tutorial Part 3", "Info"],
+        ["Music_Listening_Comparison", "PDF"],
+        ["AI Music Prompt Vocabulary Handbook", "PDF"],
+        ["L04_Build_Better_Music_Prompts", "PDF"],
+        ["AI Music & Sound Creation Tools", "Info"],
+        ["L04_Hands_On_Missions", "PDF"],
+        ["Generative AI Lesson 4 Submission", "Assignment"]
+      ]
+    },
+    {
+      "title": "Lesson 5: AI Presentation",
+      "topics": [
+        ["Gamma AI Tutorial", "Info"],
+        ["AI Presentation Vocabulary", "Info"],
+        ["L05_8-Part Presentation Prompt Formula", "PDF"],
+        ["L05_Mission1", "PDF"],
+        ["Generative AI Lesson 5 Submission", "Assignment"],
+        ["L05_Mission2", "PDF"],
+        ["Generative AI Lesson 5 Submission", "Assignment"],
+        ["L05_Mission3", "PDF"],
+        ["Generative AI Lesson 5 Submission", "Assignment"],
+        ["L05_Mission4", "PDF"],
+        ["Generative AI Lesson 5 Submission", "Assignment"],
+        ["L05_Mission5", "PDF"],
+        ["Generative AI Lesson 5 Submission", "Assignment"]
+      ]
+    },
+    {
+      "title": "Lesson 6: AI Voice Generation",
+      "topics": [
+        ["What You Will Learn", "Info"],
+        ["Welcome to AI Voice Generation", "Info"],
+        ["Explore AI Voice Tools - ElevenLabs", "Info"],
+        ["L06_Part2_ElevenLabs", "PDF"],
+        ["L06_Part3_Combining AI Tools", "PDF"],
+        ["L06_Part4_Missions", "PDF"]
+      ]
+    },
+    {
+      "title": "Lesson 7: AI Video Generation",
+      "topics": [
+        ["L07_Part2_AI_Video_Prompt_Vocabulary", "PDF"],
+        ["L07_Part3_Guided_AI_Video_Practice", "PDF"],
+        ["L07_Part4_Independent_Mission", "PDF"],
+        ["L07_Part1_Into_AI_Video", "PDF"]
+      ]
+    },
+    { "title": "Lesson 8: AI Character & Story Telling", "status": "Planned — content pending", "topics": [] },
+    { "title": "Lesson 9: AI Animations", "status": "Planned — content pending", "topics": [] },
+    { "title": "Lesson 10: AI Creative Studio", "status": "Planned — content pending", "topics": [] }
+  ],
+  "notes": "Lessons 1–7 are a structural topic inventory copied from the visible source outline. Source PDF files, embedded media, full lesson text, quiz questions, and step instructions were not available in the current browser view and are not embedded here. Lessons 8–10 are planned placeholders with content pending."
+}
